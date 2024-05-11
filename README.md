@@ -1,12 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yug Mistry</h1>
+
+[![](https://visitcount.itsvg.in/api?id=Yug-Mistry&icon=3&color=8)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 
-🔭 I’m currently working on React <br>👯 I’m looking to collaborate on Public Repositories<br>🤝 I’m looking for help with getting experience with various technologies<br>🌱 I’m currently learning IOS Application Development<br>💬 Ask me about experiences on projects<br>⚡ Fun fact reading Quotes from Anime
+🔭 I’m currently working on React <br>👯 I’m looking to collaborate on Public Repositories<br>🤝 I’m looking for help with getting experience with various technologies<br>🌱 I’m currently learning React<br>💬 Ask me about anything<br>⚡ Fun fact reading Quotes from Anime
 
-## 🌐 Socials:
+# 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Yugkumar Mistry](https://www.linkedin.com/in/yugkumar-mistry-6a469527b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Yugmistry1)
+<p align="left">
+<a href="https://x.com/Yugmistry1?t=bT4SkYKtmQJQx8gVXKcJaQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shyam_07_05" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yugkumar-mistry-6a469527b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyam-patel-536508191" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/yugmistry1711/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shyam_patel_" height="30" width="40" /></a>
+</p>
+<br>
 
 # 💻 Tech Stack:
 
@@ -30,8 +37,5 @@
 
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=Yug-Mistry&icon=3&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
