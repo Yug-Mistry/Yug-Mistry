@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yug Mistry</h1>
 
-[![](https://visitcount.itsvg.in/api?id=Yug-Mistry&icon=3&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Yug-Mistry&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 
