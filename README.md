@@ -103,7 +103,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yug-mistry/yug-mistry/output/snake.svg" alt="Snake animation" />
 
 ###
 
