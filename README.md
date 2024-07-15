@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **anything**
 
-- ⚡ Fun fact **Fun fact reading Quotes from Anime**
+- ⚡ Fun fact **Reading Quotes from Anime**
 
 <hr>
 
