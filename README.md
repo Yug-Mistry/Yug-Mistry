@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Yug Mistry and I'm a passionate developer , from India</h2>
+<h2 align="center">Hi 👋! My name is Yug Mistry and I'm a passionate developer</h2>
 
 [![](https://visitcount.itsvg.in/api?id=Yug-Mistry&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
