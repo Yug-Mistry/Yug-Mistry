@@ -121,8 +121,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yug-mistry&show_icons=true&locale=en" alt="yug-mistry" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yug-Mistry&theme=gruvbox&border_radius=6)](https://git.io/streak-stats)
-
 <hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yug-mistry" alt="yug-mistry" /></a> </p>
