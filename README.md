@@ -121,7 +121,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yug-mistry&show_icons=true&locale=en" alt="yug-mistry" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yug-mistry&" alt="yug-mistry" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yug-Mistry&theme=gruvbox&border_radius=6)](https://git.io/streak-stats)
 
 <hr>
 
