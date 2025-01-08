@@ -4,9 +4,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=Yug-Mistry&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Laravel**
+- 🔭 I’m currently working on **Cake Php**
 
-- 🌱 I’m currently learning **Laravel and next**
+- 🌱 I’m currently learning **Next**
 
 - 👯 I’m looking to collaborate on **Any language**
 
