@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Cake Php**
 
-- 🌱 I’m currently learning **Next**
+<!-- - 🌱 I’m currently learning **Next** -->
 
 - 👯 I’m looking to collaborate on **Any language**
 
