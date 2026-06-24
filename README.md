@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **gaining more knowledge**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yug-Mistry?tab=repositories](https://github.com/Yug-Mistry?tab=repositories)
+- 👨‍💻 All of my projects are available at https://portfolio.yugmistry1711.workers.dev/
 
 - 💬 Ask me about **anything**
 
